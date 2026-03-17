@@ -1,0 +1,5 @@
+{
+  "name": "CTC - Clinic Technology Cloud",
+  "description": "A multi-tenant SaaS platform that allows clinics to create their own branded online booking system with customizable templates, automation, and an AI calling assistant.",
+  "requestFramePermissions": []
+}
